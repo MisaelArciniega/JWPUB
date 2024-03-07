@@ -7,8 +7,8 @@ Instalación:
 3. Luego a la categoría que le corresponda.
 
 JWPUB disponibles:
-Catálogo de artículos
-ibs_S: Historias biblicas ilustradas
+* Catálogo de artículos
+1. ibs_S: Historias biblicas ilustradas
 
-Libros
-w_S_19250301: Artículo de 1925 "Nacimiento de la nación" en español e inglés
+* Libros
+1. w_S_19250301: Artículo de 1925 "Nacimiento de la nación" en español e inglés
