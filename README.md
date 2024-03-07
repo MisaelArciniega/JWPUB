@@ -1,8 +1,14 @@
 # JWPUB
 Descarga archivos jwpub fuera del catálogo oficial de jw.org
 
-Estos archivos fueron creados en colaboración con GoAttendant Team.
+Instalación:
+1. Abra el archivo con JW Library
+2. Vaya a Biblioteca
+3. Luego a la categoría que le corresponda.
 
 JWPUB disponibles:
-1. ibs_S: Historias biblicas ilustradas
-2. w_S_19250301: Artículo de 1925 "Nacimiento de la nación" en español e inglés
+Catálogo de artículos
+ibs_S: Historias biblicas ilustradas
+
+Libros
+w_S_19250301: Artículo de 1925 "Nacimiento de la nación" en español e inglés
