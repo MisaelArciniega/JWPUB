@@ -12,7 +12,7 @@ ____
 ____
 ## Archivos disponibles
 * [Historias biblicas ilustradas](#historias-biblicas-ilustradas-)
-* [La Torre del Vigía 1925](#torre-del-vigía-1925-)
+* [La Torre del Vigía 1925](#la-torre-del-vigía-1925-)
 
 ____
 ## Historias biblicas ilustradas [⇧](#archivos-disponibles)
