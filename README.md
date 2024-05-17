@@ -1,5 +1,3 @@
-[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/misaelarciniega/JWPUB/releases)
-
 # JWPUB
 
 Descarga archivos jwpub fuera del catálogo oficial de jw.org
