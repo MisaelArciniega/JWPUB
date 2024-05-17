@@ -1,4 +1,4 @@
-[![GitHub Downloads (all assets, all releases)]![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/misaelarciniega/JWPUB/releases)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/misaelarciniega/JWPUB/releases)
 
 # JWPUB
 
