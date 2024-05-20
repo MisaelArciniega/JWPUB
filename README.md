@@ -17,7 +17,7 @@ ____
 
 ____
 ## Historias biblicas ilustradas [⇧](#archivos-disponibles)
-<img src="screenshots/ibs.jpg" width="100px">
+<img src="screenshots/ibs.jpg" width="200px">
 
 * **Tipo de publicación**: Catálogo de artículos
 * **Última actualización**: [*ibs_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/ibs_S.jwpub/ibs_S.jwpub)
@@ -25,7 +25,7 @@ ____
 
 ____
 ## La Torre del Vigía 1925 [⇧](#archivos-disponibles)
-<img src="screenshots/w19250301.jpg" width="100px">
+<img src="screenshots/w19250301.jpg" width="200px">
 
 * **Tipo de publicación**: Libro
 * **Última actualización**: [*w_S_19250301.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/w_S_19250301.jwpub/w_S_19250301.jwpub)
