@@ -1,4 +1,4 @@
-# JWPUB
+# JWPUB-Español
 
 Descarga archivos jwpub fuera del catálogo oficial de jw.org
 
