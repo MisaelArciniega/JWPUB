@@ -21,7 +21,7 @@ ____
 
 * **Tipo de publicación**: Catálogo de artículos
 * **Última actualización**: [*ibs_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/ibs_S.jwpub/ibs_S.jwpub)
-* **Publicado**: [2023-06-12](CHANGELOG.md/#ibs---2023-06-12)
+* **Publicado**: 12/06/2023
 
 ____
 ## La Torre del Vigía 1925 [⇧](#archivos-disponibles)
@@ -29,7 +29,7 @@ ____
 
 * **Tipo de publicación**: Libro
 * **Última actualización**: [*w_S_19250301.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/w_S_19250301.jwpub/w_S_19250301.jwpub)
-* **Publicado**: [2023-04-25](CHANGELOG.md/#w_S_19250301---2023-04-25)
+* **Publicado**: 25/04/2023
 
 ____
 ## Comentario sobre la carta de Santigo [⇧](#archivos-disponibles)
@@ -37,7 +37,7 @@ ____
 
 * **Tipo de publicación**: Libro
 * **Última actualización**: [*cj_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/cj_S.jwpub/cj_S.jwpub)
-* **Publicado**: [2024-05-20](CHANGELOG.md/#cj---2024-05-20)
+* **Publicado**: 20/05/2024
 
 ____
 ____
