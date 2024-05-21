@@ -12,6 +12,7 @@ ____
 ____
 ## Archivos disponibles
 * [Historias biblicas ilustradas](#historias-biblicas-ilustradas-)
+* [Programa de lectura de la Biblia](#programa-de-lectura-de-la-biblia-)
 * [La Torre del Vigía 1925](#la-torre-del-vigía-1925-)
 * [Comentario sobre la carta de Santigo](#comentario-sobre-la-carta-de-santigo-)
 
@@ -22,6 +23,14 @@ ____
 * **Tipo de publicación**: Catálogo de artículos
 * **Última actualización**: [*ibs_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/ibs_S.jwpub/ibs_S.jwpub)
 * **Publicado**: 12/06/2023
+
+____
+## Programa de lectura de la Biblia [⇧](#archivos-disponibles)
+<img src="screenshots/501100027_univ_cnt_4.jpg" width="200px">
+
+* **Tipo de publicación**: Programas
+* **Última actualización**: [*brp_S.jwpub*](https://github.com/MisaelArciniega/JWPUB-Espanol/releases/download/brp_S.jwpub/brp_S.jwpub)
+* **Publicado**: 18/05/2023 
 
 ____
 ## La Torre del Vigía 1925 [⇧](#archivos-disponibles)
