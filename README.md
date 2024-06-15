@@ -137,7 +137,7 @@ ____
 * **Language**: Brazilian Portuguese
 * **Type of publication**: Program
 * **Last release**: [*CO-cdrn24_T.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_T.jwpub/CO-cdrn24_T.jwpub)
-* **Publicado**: [15-06-2024]
+* **Released**: [15-06-2024]
 
 ____
 ## Notebook sang 2024 nga Kombension [⇧](#available-files)
