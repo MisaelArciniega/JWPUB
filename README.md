@@ -63,7 +63,7 @@ ____
 
 * **Idioma**: Yoremnokki
 * **Tipo de publicación**: Libro
-* **Última actualización**: [*lffc_MYO.jwpub*](https://github.com/MisaelArciniega/Yoremnokki/releases/download/lffc_MYO.jwpub/lffc_MYO.jwpub)
+* **Última actualización**: [*lffc_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffc_MYO.jwpub/lffc_MYO.jwpub)
 * **Publicado**: [11-03-2024]
 
 ____
@@ -73,7 +73,7 @@ ____
 * **Idioma**: Yoremnokki
 * **Tipo de publicación**: Folleto
 * **Última actualización**: 
-[*lffic_MYO.jwpub*](https://github.com/MisaelArciniega/Yoremnokki/releases/download/lffic.jwpub/lffic.jwpub)
+[*lffic_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffic.jwpub/lffic.jwpub)
 * **Publicado**: [26-02-2024]
 
 ____
@@ -82,7 +82,7 @@ ____
 
 * **Idioma**: Yoremnokki
 * **Tipo de publicación**: Folleto
-* **Última actualización**: [*cdrn-mi24_MYO.jwpub*](https://github.com/MisaelArciniega/Yoremnokki/releases/download/cdrn-mi24.jwpub/cdrn-mi24_MYO.jwpub)
+* **Última actualización**: [*cdrn-mi24_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/cdrn-mi24_MYO.jwpub/cdrn-mi24_MYO.jwpub)
 * **Publicado**: [26-02-2024]
 
 ____
@@ -91,7 +91,7 @@ ____
 
 * **Idioma**: Yoremnokki
 * **Tipo de publicación**: Programa
-* **Última actualización**: [*CO-cdrn24_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB-Yoremnokki/releases/download/CO-cdrn24_MYO.jwpub/CO-cdrn24_MYO.jwpub)
+* **Última actualización**: [*CO-cdrn24_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_MYO.jwpub/CO-cdrn24_MYO.jwpub)
 * **Publicado**: [09-06-2024]
 
 ____
@@ -127,7 +127,7 @@ ____
 
 * **Language**: Brazilian Portuguese
 * **Type of publication**: Program
-* **Last release**: [*CO-cdrn24_T.jwpub*]()
+* **Last release**: [*CO-cdrn24_T.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_T.jwpub/CO-cdrn24_T.jwpub)
 * **Publicado**: [15-06-2024]
 
 ____
@@ -136,7 +136,7 @@ ____
 
 * **Language**: Hiligaynon
 * **Type of publication**: Program
-* **Last release**: [*CO-cdrn24_HV.jwpub*]()
+* **Last release**: [*CO-cdrn24_HV.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_HV.jwpub/CO-cdrn24_HV.jwpub)
 * **Released**: [15-06-2024]
 
 ____
