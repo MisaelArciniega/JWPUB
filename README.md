@@ -54,7 +54,7 @@ ____
 
 * **Language**: English
 * **Type of publication**: Program
-* **Last release**: [*CO-cdrn24_E.jwpub*](https://github.com/MisaelArciniega/JWPUB-English/releases/download/CO-cdrn24_E.jwpub/CO-cdrn24_E.jwpub)
+* **Last release**: [*CO-cdrn24_E.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_E.jwpub/CO-cdrn24_E.jwpub)
 * **Released**: [02-05-2024]
 
 ____
@@ -102,6 +102,15 @@ ____
 * **Tipo de publicación**: Catálogo de artículos
 * **Última actualización**: [*ibs_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/ibs_S.jwpub/ibs_S.jwpub)
 * **Publicado**: [12-06-2023]
+
+____
+## Programa de lectura de la Biblia [⇧](#available-files)
+<img src="screenshots/brp.jpg" width="200px">
+
+* **Idioma**: Español
+* **Tipo de publicación**: Programa
+* **Última actualización**: [*brp_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/brp_S.jwpub/brp_S.jwpub)
+* **Publicado**: [12-07-2023]
 
 ____
 ## La Torre del Vigía 1925 [⇧](#available-files)
