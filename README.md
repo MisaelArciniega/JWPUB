@@ -36,10 +36,10 @@ Instalación:
 
 ____
 ____
-## Available Files
+## Available Publications
 * [2024 Convention Notebook](#2024-convention-notebook-)
-* [Libro Al’leake jiba bechïbo jiapsa](#libro-alʼleake-jiba-bechïbo-jiapsa-)
-* [Folleto Al’leake jiba bechïbo jiapsa](#folleto-al’leake-jiba-bechïbo-jiapsa-)
+* [Al’leake jiba bechïbo jiapsa Ju Biblia enchi a bit’tuana jáchini](#alʼleake-jiba-bechïbo-jiapsa-ju-biblia-enchi-a-bit’tuana-jáchini-)
+* [Al’leake jiba bechïbo jiapsa Jume bat lecciónim Bíbliata bétana](#al’leake-jiba-bechïbo-jiapsa-jume-bat-lecciónim-bíbliata-bétana-)
 * [Cuadérno jü Conmemoraciónta 2024ta bechïbo](#cuadérno-jü-conmemoraciónta-2024ta-bechïbo-)
 * [Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo](#cuaderno-buewru-reuniónta-jehovata-testígom-jíjipurëwi-2024po-bechïbo-)
 * [Historias biblicas ilustradas](#historias-biblicas-ilustradas-)
@@ -52,7 +52,7 @@ ____
 
 
 ____
-## 2024 Convention Notebook [⇧](#available-files)
+## 2024 Convention Notebook [⇧](#available-publications)
 <img src="screenshots/CO-cdrn24_E.jpg" width="200px">
 
 * **Language**: English
@@ -61,7 +61,7 @@ ____
 * **Released**: [02-05-2024]
 
 ____
-## Libro Al’leake jiba bechïbo jiapsa [⇧](#available-files)
+## Al’leake jiba bechïbo jiapsa Ju Biblia enchi a bit’tuana jáchini [⇧](#available-publications)
 <img src="screenshots/lffc.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -70,17 +70,16 @@ ____
 * **Publicado**: [11-03-2024]
 
 ____
-## Folleto Al’leake jiba bechïbo jiapsa [⇧](#available-files)
+## Al’leake jiba bechïbo jiapsa Jume bat lecciónim Bíbliata bétana [⇧](#available-publications)
 <img src="screenshots/lffic.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
 * **Tipo de publicación**: Folleto
-* **Última actualización**: 
-[*lffic_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffic.jwpub/lffic.jwpub)
+* **Última actualización**: [*lffic_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffic.jwpub/lffic.jwpub)
 * **Publicado**: [26-02-2024]
 
 ____
-## Cuadérno jü Conmemoraciónta 2024ta bechïbo [⇧](#available-files)
+## Cuadérno jü Conmemoraciónta 2024ta bechïbo [⇧](#available-publications)
 <img src="screenshots/cdrn-mi24.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -89,7 +88,7 @@ ____
 * **Publicado**: [26-02-2024]
 
 ____
-## Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo [⇧](#available-files)
+## Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo [⇧](#available-publications)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -98,7 +97,7 @@ ____
 * **Publicado**: [09-06-2024]
 
 ____
-## Historias biblicas ilustradas [⇧](#available-files)
+## Historias biblicas ilustradas [⇧](#available-publications)
 <img src="screenshots/ibs.jpg" width="200px">
 
 * **Idioma**: Español
@@ -107,7 +106,7 @@ ____
 * **Publicado**: [12-06-2023]
 
 ____
-## Programa de lectura de la Biblia [⇧](#available-files)
+## Programa de lectura de la Biblia [⇧](#available-publications)
 <img src="screenshots/brp.jpg" width="200px">
 
 * **Idioma**: Español
@@ -116,7 +115,7 @@ ____
 * **Publicado**: [12-07-2023]
 
 ____
-## La Torre del Vigía 1925 [⇧](#available-files)
+## La Torre del Vigía 1925 [⇧](#available-publications)
 <img src="screenshots/w19250301.jpg" width="200px">
 
 * **Idioma**: Español
@@ -125,7 +124,7 @@ ____
 * **Publicado**: [25-04-2023]
 
 ____
-## Comentario sobre la carta de Santigo [⇧](#available-files)
+## Comentario sobre la carta de Santigo [⇧](#available-publications)
 <img src="screenshots/cj.jpg" width="200px">
 
 * **Idioma**: Español
@@ -134,7 +133,7 @@ ____
 * **Publicado**: [20-05-2024]
 
 ____
-## Caderno do Congresso de 2024 [⇧](#available-files)
+## Caderno do Congresso de 2024 [⇧](#available-publications)
 <img src="screenshots/CO-cdrn24_T.jpg" width="200px">
 
 * **Language**: Brazilian Portuguese
@@ -143,7 +142,7 @@ ____
 * **Released**: [15-06-2024]
 
 ____
-## Notebook sang 2024 nga Kombension [⇧](#available-files)
+## Notebook sang 2024 nga Kombension [⇧](#available-publications)
 <img src="screenshots/CO-cdrn24_HV.jpg" width="200px">
 
 * **Language**: Hiligaynon
@@ -152,7 +151,7 @@ ____
 * **Released**: [15-06-2024]
 
 ____
-## Notizbuch für den Kongress 2024 [⇧](#available-files)
+## Notizbuch für den Kongress 2024 [⇧](#available-publications)
 <img src="screenshots/CO-cdrn24_X.jpg" width="200px">
 
 * **Language**: German
