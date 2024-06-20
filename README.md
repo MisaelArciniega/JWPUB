@@ -39,7 +39,7 @@ ____
 ## Available Files
 * [2024 Convention Notebook](#2024-convention-notebook-)
 * [Libro Al’leake jiba bechïbo jiapsa](#libro-alʼleake-jiba-bechïbo-jiapsa-)
-* [Folleto Al’leake jiba bechïbo jiapsa](#folleto-¡al’leake-jiba-bechïbo-jiapsa!-)
+* [Folleto Al’leake jiba bechïbo jiapsa](#folleto-al’leake-jiba-bechïbo-jiapsa-)
 * [Cuadérno jü Conmemoraciónta 2024ta bechïbo](#cuadérno-jü-conmemoraciónta-2024ta-bechïbo-)
 * [Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo](#cuaderno-buewru-reuniónta-jehovata-testígom-jíjipurëwi-2024po-bechïbo-)
 * [Historias biblicas ilustradas](#historias-biblicas-ilustradas-)
