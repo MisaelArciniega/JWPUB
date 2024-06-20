@@ -61,7 +61,7 @@ ____
 * **Released**: [02-05-2024]
 
 ____
-## ¡Al’leake jiba bechïbo jiapsa! (Libro) [⇧](#available-files)
+## Libro Al’leake jiba bechïbo jiapsa [⇧](#available-files)
 <img src="screenshots/lffc.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -70,7 +70,7 @@ ____
 * **Publicado**: [11-03-2024]
 
 ____
-## ¡Al’leake jiba bechïbo jiapsa! (Folleto) [⇧](#available-files)
+## Folleto Al’leake jiba bechïbo jiapsa [⇧](#available-files)
 <img src="screenshots/lffic.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
