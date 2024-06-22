@@ -38,8 +38,8 @@ ____
 ____
 ## Available Publications
 * [2024 Convention Notebook](#2024-convention-notebook-)
-* [Al’leake jiba bechïbo jiapsa Ju Biblia enchi a bit’tuana jáchini](#alʼleake-jiba-bechïbo-jiapsa-ju-biblia-enchi-a-bit’tuana-jáchini-)
-* [Al’leake jiba bechïbo jiapsa Jume bat lecciónim Bíbliata bétana](#al’leake-jiba-bechïbo-jiapsa-jume-bat-lecciónim-bíbliata-bétana-)
+* [¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini](#alleake-jiba-bechïbo-jiapsa-ju-biblia-enchi-a-bittuana-jáchini-)
+* [¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana](#alleake-jiba-bechïbo-jiapsa-jume-bat-lecciónim-bíbliata-bétana-)
 * [Cuadérno jü Conmemoraciónta 2024ta bechïbo](#cuadérno-jü-conmemoraciónta-2024ta-bechïbo-)
 * [Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo](#cuaderno-buewru-reuniónta-jehovata-testígom-jíjipurëwi-2024po-bechïbo-)
 * [Historias biblicas ilustradas](#historias-biblicas-ilustradas-)
@@ -53,7 +53,7 @@ ____
 
 ____
 ## 2024 Convention Notebook [⇧](#available-publications)
-<img src="screenshots/CO-cdrn24_E.jpg" width="200px">
+<img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: English
 * **Type of publication**: Program
@@ -61,7 +61,7 @@ ____
 * **Released**: [02-05-2024]
 
 ____
-## Al’leake jiba bechïbo jiapsa Ju Biblia enchi a bit’tuana jáchini [⇧](#available-publications)
+## ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini [⇧](#available-publications)
 <img src="screenshots/lffc.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -70,7 +70,7 @@ ____
 * **Publicado**: [11-03-2024]
 
 ____
-## Al’leake jiba bechïbo jiapsa Jume bat lecciónim Bíbliata bétana [⇧](#available-publications)
+## ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana [⇧](#available-publications)
 <img src="screenshots/lffic.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -134,7 +134,7 @@ ____
 
 ____
 ## Caderno do Congresso de 2024 [⇧](#available-publications)
-<img src="screenshots/CO-cdrn24_T.jpg" width="200px">
+<img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: Brazilian Portuguese
 * **Type of publication**: Program
@@ -143,7 +143,7 @@ ____
 
 ____
 ## Notebook sang 2024 nga Kombension [⇧](#available-publications)
-<img src="screenshots/CO-cdrn24_HV.jpg" width="200px">
+<img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: Hiligaynon
 * **Type of publication**: Program
@@ -152,7 +152,7 @@ ____
 
 ____
 ## Notizbuch für den Kongress 2024 [⇧](#available-publications)
-<img src="screenshots/CO-cdrn24_X.jpg" width="200px">
+<img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: German
 * **Type of publication**: Program
