@@ -167,6 +167,7 @@ ____
 ____
 ## “Toda Escritura” [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/si.jpg" width="200px">
+<img src="screenshots/si-lsr.jpg" width="200px">
 
 * **Idioma**: Español
 * **Tipo de publicación**: Libro
