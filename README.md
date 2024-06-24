@@ -12,12 +12,9 @@ Available languages/ Idiomas disponibles:
 6. German/ Alemán
 
 Installation/ Instalación:
-1. Open the file using JW Library.
-	Abra el archivo con JW Library
-2. Go to Library tab
-	Vaya a “Biblioteca”
-3. Then go to the appropriate category
-	Luego a la categoría que le corresponda
+1. Open the file using JW Library/ Abra el archivo con JW Library
+2. Go to Library tab/ Vaya a “Biblioteca”
+3. Then go to the appropriate category/ Luego a la categoría que le corresponda
 
 ____
 ____
@@ -34,8 +31,7 @@ ____
 * [Caderno do Congresso de 2024](#caderno-do-congresso-de-2024-)
 * [Notebook sang 2024 nga Kombension](#notebook-sang-2024-nga-kombension-)
 * [Notizbuch für den Kongress 2024](#notizbuch-für-den-kongress-2024-)
-* [“Toda Escritura es inspirada de Dios y provechosa”](#toda-escritura-es-inspirada-de dios-y-provechosa-)
-
+* [“Toda Escritura”](#toda-escritura-)
 
 ____
 ## 2024 Convention Notebook [⇧](#available-publications-publicaciones-disponibles-)
@@ -146,7 +142,7 @@ ____
 * **Released**: [20-06-2024]
 
 ____
-## “Toda Escritura es inspirada de Dios y provechosa” [⇧](#available-publications-publicaciones-disponibles-)
+## “Toda Escritura” [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/si.jpg" width="200px">
 
 * **Idioma**: Español
