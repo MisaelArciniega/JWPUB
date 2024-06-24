@@ -1,42 +1,27 @@
 # JWPUB
 
 Download custom jwpub files in different languages for JW Library
-
-Available languages:
-1. Spanish
-2. English
-3. Yoremnokki
-4. Hiligaynon
-5. Brazilian Portuguese
-6. German
-
-Installation:
-1. Open the file using JW Library.
-2. Go to Library
-3. Then to the appropriate category
-
-____
-____
-
-
 Descarga archivos jwpub personalizados en diferentes idiomas para JW Library
 
-Idiomas disponibles:
-1. Español
-2. Inglés
+Available languages/ Idiomas disponibles:
+1. Spanish/ Español
+2. English/ Inglés
 3. Yoremnokki
 4. Hiligaynon
-5. Portugués Brasileño
-6. Alemán
+5. Brazilian Portuguese/ Portugués Brasileño
+6. German/ Alemán
 
-Instalación:
-1. Abra el archivo con JW Library
-2. Vaya a Biblioteca
-3. Luego a la categoría que le corresponda
+Installation/ Instalación:
+1. Open the file using JW Library.
+	Abra el archivo con JW Library
+2. Go to Library tab
+	Vaya a “Biblioteca”
+3. Then go to the appropriate category
+	Luego a la categoría que le corresponda
 
 ____
 ____
-## Available Publications
+## Available Publications/ Publicaciones disponibles
 * [2024 Convention Notebook](#2024-convention-notebook-)
 * [¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini](#alleake-jiba-bechïbo-jiapsa-ju-biblia-enchi-a-bittuana-jáchini-)
 * [¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana](#alleake-jiba-bechïbo-jiapsa-jume-bat-lecciónim-bíbliata-bétana-)
@@ -49,10 +34,11 @@ ____
 * [Caderno do Congresso de 2024](#caderno-do-congresso-de-2024-)
 * [Notebook sang 2024 nga Kombension](#notebook-sang-2024-nga-kombension-)
 * [Notizbuch für den Kongress 2024](#notizbuch-für-den-kongress-2024-)
+* [“Toda Escritura es inspirada de Dios y provechosa”](#toda-escritura-es-inspirada-de dios-y-provechosa-)
 
 
 ____
-## 2024 Convention Notebook [⇧](#available-publications)
+## 2024 Convention Notebook [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: English
@@ -61,7 +47,7 @@ ____
 * **Released**: [02-05-2024]
 
 ____
-## ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini [⇧](#available-publications)
+## ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/lffc.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -70,7 +56,7 @@ ____
 * **Publicado**: [11-03-2024]
 
 ____
-## ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana [⇧](#available-publications)
+## ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/lffic.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -79,7 +65,7 @@ ____
 * **Publicado**: [26-02-2024]
 
 ____
-## Cuadérno jü Conmemoraciónta 2024ta bechïbo [⇧](#available-publications)
+## Cuadérno jü Conmemoraciónta 2024ta bechïbo [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/cdrn-mi24.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -88,7 +74,7 @@ ____
 * **Publicado**: [26-02-2024]
 
 ____
-## Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo [⇧](#available-publications)
+## Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -97,7 +83,7 @@ ____
 * **Publicado**: [09-06-2024]
 
 ____
-## Historias biblicas ilustradas [⇧](#available-publications)
+## Historias biblicas ilustradas [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/ibs.jpg" width="200px">
 
 * **Idioma**: Español
@@ -106,7 +92,7 @@ ____
 * **Publicado**: [12-06-2023]
 
 ____
-## Programa de lectura de la Biblia [⇧](#available-publications)
+## Programa de lectura de la Biblia [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/brp.jpg" width="200px">
 
 * **Idioma**: Español
@@ -115,7 +101,7 @@ ____
 * **Publicado**: [12-07-2023]
 
 ____
-## La Torre del Vigía 1925 [⇧](#available-publications)
+## La Torre del Vigía 1925 [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/w19250301.jpg" width="200px">
 
 * **Idioma**: Español
@@ -124,7 +110,7 @@ ____
 * **Publicado**: [25-04-2023]
 
 ____
-## Comentario sobre la carta de Santigo [⇧](#available-publications)
+## Comentario sobre la carta de Santigo [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/cj.jpg" width="200px">
 
 * **Idioma**: Español
@@ -133,7 +119,7 @@ ____
 * **Publicado**: [20-05-2024]
 
 ____
-## Caderno do Congresso de 2024 [⇧](#available-publications)
+## Caderno do Congresso de 2024 [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: Brazilian Portuguese
@@ -142,7 +128,7 @@ ____
 * **Released**: [15-06-2024]
 
 ____
-## Notebook sang 2024 nga Kombension [⇧](#available-publications)
+## Notebook sang 2024 nga Kombension [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: Hiligaynon
@@ -151,13 +137,22 @@ ____
 * **Released**: [15-06-2024]
 
 ____
-## Notizbuch für den Kongress 2024 [⇧](#available-publications)
+## Notizbuch für den Kongress 2024 [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: German
 * **Type of publication**: Program
 * **Last release**: [*CO-cdrn24_X.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_X.jwpub/CO-cdrn24_X.jwpub)
 * **Released**: [20-06-2024]
+
+____
+## “Toda Escritura es inspirada de Dios y provechosa” [⇧](#available-publications-publicaciones-disponibles-)
+<img src="screenshots/si.jpg" width="200px">
+
+* **Idioma**: Español
+* **Tipo de publicación**: Libro
+* **Última actualización**: [*si_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/si_S.jwpub/si_S.jwpub)
+* **Publicado**: [23-06-2024]
 
 ____
 ____
