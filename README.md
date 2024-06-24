@@ -41,7 +41,8 @@ ____
 * **Type of publication**: Program
 * **Last release**: [*CO-cdrn24_E.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_E.jwpub/CO-cdrn24_E.jwpub)
 * **Released**: [02-05-2024]
-
+* **Compatibility on Windows: JW Library 14.3.45.5
+* **Compatibility on Android: JW Library 15.0
 ____
 ## ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini [⇧](#available-publications-publicaciones-disponibles-)
 <img src="screenshots/lffc.jpg" width="200px">
@@ -50,6 +51,8 @@ ____
 * **Tipo de publicación**: Libro
 * **Última actualización**: [*lffc_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffc_MYO.jwpub/lffc_MYO.jwpub)
 * **Publicado**: [11-03-2024]
+* **Compatibilidad en Windows: JW Library 14.3.45.5
+* **Compatibilidad en Android: JW Library 15.0
 
 ____
 ## ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana [⇧](#available-publications-publicaciones-disponibles-)
@@ -59,6 +62,8 @@ ____
 * **Tipo de publicación**: Folleto
 * **Última actualización**: [*lffic_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffic.jwpub/lffic.jwpub)
 * **Publicado**: [26-02-2024]
+* **Compatibilidad en Windows: JW Library 14.3.45.5
+* **Compatibilidad en Android: JW Library 15.0
 
 ____
 ## Cuadérno jü Conmemoraciónta 2024ta bechïbo [⇧](#available-publications-publicaciones-disponibles-)
@@ -68,6 +73,8 @@ ____
 * **Tipo de publicación**: Folleto
 * **Última actualización**: [*cdrn-mi24_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/cdrn-mi24_MYO.jwpub/cdrn-mi24_MYO.jwpub)
 * **Publicado**: [26-02-2024]
+* **Compatibilidad en Windows: JW Library 14.3.45.5
+* **Compatibilidad en Android: JW Library 15.0
 
 ____
 ## Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo [⇧](#available-publications-publicaciones-disponibles-)
@@ -77,6 +84,8 @@ ____
 * **Tipo de publicación**: Programa
 * **Última actualización**: [*CO-cdrn24_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_MYO.jwpub/CO-cdrn24_MYO.jwpub)
 * **Publicado**: [09-06-2024]
+* **Compatibilidad en Windows: JW Library 14.3.45.5
+* **Compatibilidad en Android: JW Library 15.0
 
 ____
 ## Historias biblicas ilustradas [⇧](#available-publications-publicaciones-disponibles-)
@@ -86,6 +95,8 @@ ____
 * **Tipo de publicación**: Catálogo de artículos
 * **Última actualización**: [*ibs_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/ibs_S.jwpub/ibs_S.jwpub)
 * **Publicado**: [12-06-2023]
+* **Compatibilidad en Windows: JW Library 14.3.45.5
+* **Compatibilidad en Android: JW Library 15.0
 
 ____
 ## Programa de lectura de la Biblia [⇧](#available-publications-publicaciones-disponibles-)
@@ -95,6 +106,8 @@ ____
 * **Tipo de publicación**: Programa
 * **Última actualización**: [*brp_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/brp_S.jwpub/brp_S.jwpub)
 * **Publicado**: [12-07-2023]
+* **Compatibilidad en Windows: JW Library 14.3.45.5
+* **Compatibilidad en Android: JW Library 15.0
 
 ____
 ## La Torre del Vigía 1925 [⇧](#available-publications-publicaciones-disponibles-)
@@ -104,6 +117,8 @@ ____
 * **Tipo de publicación**: Libro
 * **Última actualización**: [*w_S_19250301.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/w_S_19250301.jwpub/w_S_19250301.jwpub)
 * **Publicado**: [25-04-2023]
+* **Compatibilidad en Windows: JW Library 14.3.45.5
+* **Compatibilidad en Android: JW Library 15.0
 
 ____
 ## Comentario sobre la carta de Santigo [⇧](#available-publications-publicaciones-disponibles-)
@@ -113,6 +128,8 @@ ____
 * **Tipo de publicación**: Libro
 * **Última actualización**: [*cj_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/cj_S.jwpub/cj_S.jwpub)
 * **Publicado**: [20-05-2024]
+* **Compatibilidad en Windows: JW Library 14.3.45.5
+* **Compatibilidad en Android: JW Library 14.3.1
 
 ____
 ## Caderno do Congresso de 2024 [⇧](#available-publications-publicaciones-disponibles-)
@@ -122,6 +139,8 @@ ____
 * **Type of publication**: Program
 * **Last release**: [*CO-cdrn24_T.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_T.jwpub/CO-cdrn24_T.jwpub)
 * **Released**: [15-06-2024]
+* **Compatibility on Windows: JW Library 14.3.45.5
+* **Compatibility on Android: JW Library 15.0
 
 ____
 ## Notebook sang 2024 nga Kombension [⇧](#available-publications-publicaciones-disponibles-)
@@ -131,6 +150,8 @@ ____
 * **Type of publication**: Program
 * **Last release**: [*CO-cdrn24_HV.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_HV.jwpub/CO-cdrn24_HV.jwpub)
 * **Released**: [15-06-2024]
+* **Compatibility on Windows: JW Library 14.3.45.5
+* **Compatibility on Android: JW Library 15.0
 
 ____
 ## Notizbuch für den Kongress 2024 [⇧](#available-publications-publicaciones-disponibles-)
@@ -140,6 +161,8 @@ ____
 * **Type of publication**: Program
 * **Last release**: [*CO-cdrn24_X.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_X.jwpub/CO-cdrn24_X.jwpub)
 * **Released**: [20-06-2024]
+* **Compatibility on Windows: JW Library 14.3.45.5
+* **Compatibility on Android: JW Library 15.0
 
 ____
 ## “Toda Escritura” [⇧](#available-publications-publicaciones-disponibles-)
@@ -149,6 +172,8 @@ ____
 * **Tipo de publicación**: Libro
 * **Última actualización**: [*si_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/si_S.jwpub/si_S.jwpub)
 * **Publicado**: [23-06-2024]
+* **Compatibilidad en Windows: JW Library 14.3.45.5
+* **Compatibilidad en Android: JW Library 15.0
 
 ____
 ____
