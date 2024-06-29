@@ -129,7 +129,7 @@ ____
 * **Última actualización**: [*cj_S.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/cj_S.jwpub/cj_S.jwpub)
 * **Publicado**: [20-05-2024]
 * **Compatibilidad en Windows**: JW Library 14.3.45.5
-* **Compatibilidad en Android**: JW Library 14.3.1
+* **Compatibilidad en Android**: JW Library 15.0
 
 ____
 ## Caderno do Congresso de 2024 [⇧](#available-publications-publicaciones-disponibles-)
