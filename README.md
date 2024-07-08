@@ -18,7 +18,7 @@ Installation/ Instalación:
 
 ____
 ____
-## Available Publications/ Publicaciones disponibles
+## Available Publications - Publicaciones disponibles
 * [2024 Convention Notebook](#2024-convention-notebook-)
 * [¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini](#alleake-jiba-bechïbo-jiapsa-ju-biblia-enchi-a-bittuana-jáchini-)
 * [¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana](#alleake-jiba-bechïbo-jiapsa-jume-bat-lecciónim-bíbliata-bétana-)
