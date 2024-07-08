@@ -36,7 +36,7 @@ ____
 * [Please Follow Up](#please-follow-up-)
 
 ____
-## 2024 Convention Notebook [⇧](#available-publications-publicaciones-disponibles-)
+## 2024 Convention Notebook [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: English
@@ -45,7 +45,7 @@ ____
 * **Released**: [02-05-2024]
 
 ____
-## ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini [⇧](#available-publications-publicaciones-disponibles-)
+## ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/lffc.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -54,7 +54,7 @@ ____
 * **Publicado**: [11-03-2024]
 
 ____
-## ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana [⇧](#available-publications-publicaciones-disponibles-)
+## ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/lffic.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -63,7 +63,7 @@ ____
 * **Publicado**: [26-02-2024]
 
 ____
-## Cuadérno jü Conmemoraciónta 2024ta bechïbo [⇧](#available-publications-publicaciones-disponibles-)
+## Cuadérno jü Conmemoraciónta 2024ta bechïbo [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/cdrn-mi24.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -72,7 +72,7 @@ ____
 * **Publicado**: [26-02-2024]
 
 ____
-## Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo [⇧](#available-publications-publicaciones-disponibles-)
+## Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -81,7 +81,7 @@ ____
 * **Publicado**: [09-06-2024]
 
 ____
-## Historias biblicas ilustradas [⇧](#available-publications-publicaciones-disponibles-)
+## Historias biblicas ilustradas [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/ibs.jpg" width="200px">
 
 * **Idioma**: Español
@@ -90,7 +90,7 @@ ____
 * **Publicado**: [12-06-2023]
 
 ____
-## Programa de lectura de la Biblia [⇧](#available-publications-publicaciones-disponibles-)
+## Programa de lectura de la Biblia [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/brp.jpg" width="200px">
 
 * **Idioma**: Español
@@ -99,7 +99,7 @@ ____
 * **Publicado**: [12-07-2023]
 
 ____
-## La Torre del Vigía 1925 [⇧](#available-publications-publicaciones-disponibles-)
+## La Torre del Vigía 1925 [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/w19250301.jpg" width="200px">
 
 * **Idioma**: Español
@@ -108,7 +108,7 @@ ____
 * **Publicado**: [25-04-2023]
 
 ____
-## Comentario sobre la carta de Santigo [⇧](#available-publications-publicaciones-disponibles-)
+## Comentario sobre la carta de Santigo [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/cj.jpg" width="200px">
 
 * **Idioma**: Español
@@ -118,7 +118,7 @@ ____
 * **Publicado**: [20-05-2024]
 
 ____
-## Caderno do Congresso de 2024 [⇧](#available-publications-publicaciones-disponibles-)
+## Caderno do Congresso de 2024 [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: Brazilian Portuguese
@@ -127,7 +127,7 @@ ____
 * **Released**: [15-06-2024]
 
 ____
-## Notebook sang 2024 nga Kombension [⇧](#available-publications-publicaciones-disponibles-)
+## Notebook sang 2024 nga Kombension [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: Hiligaynon
@@ -136,7 +136,7 @@ ____
 * **Released**: [15-06-2024]
 
 ____
-## Notizbuch für den Kongress 2024 [⇧](#available-publications-publicaciones-disponibles-)
+## Notizbuch für den Kongress 2024 [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Language**: German
@@ -145,7 +145,7 @@ ____
 * **Released**: [20-06-2024]
 
 ____
-## “Toda Escritura” [⇧](#available-publications-publicaciones-disponibles-)
+## “Toda Escritura” [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/si.jpg" width="200px">
 <img src="screenshots/si-lsr.jpg" width="200px">
 
@@ -155,7 +155,7 @@ ____
 * **Publicado**: [23-06-2024]
 
 ____
-## Sírvase visitar [⇧](#available-publications-publicaciones-disponibles-)
+## Sírvase visitar [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/S-43.jpg" width="200px">
 
 * **Idioma**: Español
@@ -164,7 +164,7 @@ ____
 * **Publicado**: [05-07-2024]
 
 ____
-## Please Follow Up [⇧](#available-publications-publicaciones-disponibles-)
+## Please Follow Up [⇧](#available-publications-publicaciones-disponibles)
 <img src="screenshots/S-43.jpg" width="200px">
 
 * **Language**: English
