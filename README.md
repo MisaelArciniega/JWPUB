@@ -23,7 +23,7 @@ ____
 * [¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini](#alleake-jiba-bechïbo-jiapsa-ju-biblia-enchi-a-bittuana-jáchini-)
 * [¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana](#alleake-jiba-bechïbo-jiapsa-jume-bat-lecciónim-bíbliata-bétana-)
 * [Cuadérno jü Conmemoraciónta 2024ta bechïbo](#cuadérno-jü-conmemoraciónta-2024ta-bechïbo-)
-* [Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo](#cuaderno-buewru-reuniónta-jehovata-testígom-jíjipurëwi-2024po-bechïbo-)
+* [Cuaderno naw yayajäpota 2024po béchïbo](#cuaderno-naw-yayajäpota-2024po-béchïbo-)
 * [Historias biblicas ilustradas](#historias-biblicas-ilustradas-)
 * [Programa de lectura de la Biblia](#programa-de-lectura-de-la-biblia-)
 * [La Torre del Vigía 1925](#la-torre-del-vigía-1925-)
@@ -72,7 +72,7 @@ ____
 * **Publicado**: [26-02-2024]
 
 ____
-## Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo [⇧](#jwpub)
+## Cuaderno naw yayajäpota 2024po béchïbo [⇧](#jwpub)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
