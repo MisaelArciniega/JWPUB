@@ -34,7 +34,7 @@ ____
 * [“Toda Escritura”](#toda-escritura-)
 * [Sírvase visitar](#sírvase-visitar-)
 * [Please Follow Up](#please-follow-up-)
-* [Arem aman wey'ye](#arem-aman-wey'ye-)
+* [Arem aman weyye](#arem-aman-weyye-)
 * [Cuaderno naw yayajäpota circuítota 2024-2025po béchïbo (Superintendente circuítopo anémemaki)](#cuaderno-naw-yayajäpota-circuítota-2024-2025po-béchïbo-superintendente-circuítopo-anémemaki-)
 
 ____
@@ -175,7 +175,7 @@ ____
 * **Released**: [08-07-2024]
 
 ____
-## Arem aman wey'ye [⇧](#jwpub)
+## Arem aman weyye [⇧](#jwpub)
 <img src="screenshots/S-43.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
