@@ -23,7 +23,7 @@ ____
 * [¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini](#alleake-jiba-bechïbo-jiapsa-ju-biblia-enchi-a-bittuana-jáchini-)
 * [¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana](#alleake-jiba-bechïbo-jiapsa-jume-bat-lecciónim-bíbliata-bétana-)
 * [Cuadérno jü Conmemoraciónta 2024ta bechïbo](#cuadérno-jü-conmemoraciónta-2024ta-bechïbo-)
-* [Cuaderno naw yayajäpota 2024po béchïbo](#cuaderno-naw-yayajäpota-2024po-béchïbo-)
+* [Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo](#cuaderno-buewru-reuniónta-jehovata-testígom-jíjipurëwi-2024po-bechïbo-)
 * [Historias biblicas ilustradas](#historias-biblicas-ilustradas-)
 * [Programa de lectura de la Biblia](#programa-de-lectura-de-la-biblia-)
 * [La Torre del Vigía 1925](#la-torre-del-vigía-1925-)
@@ -34,6 +34,8 @@ ____
 * [“Toda Escritura”](#toda-escritura-)
 * [Sírvase visitar](#sírvase-visitar-)
 * [Please Follow Up](#please-follow-up-)
+* [Arem aman wey’ye](#arem-aman-wey’ye-)
+* [Cuaderno naw yayajäpota circuítota 2024-2025po béchïbo (Superintendente circuítopo anémemaki)](#cuaderno-naw-yayajäpota-circuítota-2024-2025po-béchïbo-superintendente-circuítopo-anémemaki-)
 
 ____
 ## 2024 Convention Notebook [⇧](#jwpub)
@@ -72,7 +74,7 @@ ____
 * **Publicado**: [26-02-2024]
 
 ____
-## Cuaderno naw yayajäpota 2024po béchïbo [⇧](#jwpub)
+## Cuaderno buewru reuniónta Jehovata Testígom jíjipurëwi 2024po bechïbo [⇧](#jwpub)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
 
 * **Idioma**: Yoremnokki
@@ -172,5 +174,22 @@ ____
 * **Last release**: [*S-43_E.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_E.jwpub/S-43_E.jwpub)
 * **Released**: [08-07-2024]
 
+____
+## Arem aman wey’ye [⇧](#jwpub)
+<img src="screenshots/S-43.jpg" width="200px">
+
+* **Idioma**: Yoremnokki
+* **Tipo de publicación**: Formulario
+* **Última actualización**: [*S-43_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_MYO.jwpub/S-43_MYO.jwpubb)
+* **Publicado**: [03-08-2024]
+
+____
+## Cuaderno naw yayajäpota circuítota 2024-2025po béchïbo (Superintendente circuítopo anémemaki) [⇧](#jwpub)
+<img src="screenshots/CA-cocdrn25.jpg" width="200px">
+
+* **Idioma**: Yoremnokki
+* **Tipo de publicación**: Programa
+* **Última actualización**: [*CA-cocdrn25_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_MYO.jwpub/CA-cocdrn25_MYO.jwpub)
+* **Publicado**: [03-08-2024]
 ____
 ____
