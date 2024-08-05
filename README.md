@@ -1,20 +1,19 @@
 # JWPUB
 
-Download custom jwpub files in different languages for JW Library
-Descarga archivos jwpub personalizados en diferentes idiomas para JW Library
+Download custom jwpub files in different languages for JW Library // Descarga archivos jwpub personalizados en diferentes idiomas para JW Library
 
-Available languages/ Idiomas disponibles:
-1. Spanish/ Español
-2. English/ Inglés
+Available languages // Idiomas disponibles:
+1. Spanish // Español
+2. English // Inglés
 3. Yoremnokki
 4. Hiligaynon
-5. Brazilian Portuguese/ Portugués Brasileño
-6. German/ Alemán
+5. Brazilian Portuguese // Portugués Brasileño
+6. German // Alemán
 
-Installation/ Instalación:
-1. Open the file using JW Library/ Abra el archivo con JW Library
-2. Go to Library tab/ Vaya a “Biblioteca”
-3. Then go to the appropriate category/ Luego a la categoría que le corresponda
+Installation // Instalación:
+1. Open the file using JW Library // Abra el archivo con JW Library
+2. Go to Library tab // Vaya a “Biblioteca”
+3. Then go to the appropriate category // Luego a la categoría que le corresponda
 
 ____
 ____
@@ -36,6 +35,8 @@ ____
 * [Please Follow Up](#please-follow-up-)
 * [Arem aman weyye](#arem-aman-weyye-)
 * [Cuaderno naw yayajäpota circuítota 2024-2025po béchïbo (Superintendente circuítopo anémemaki)](#cuaderno-naw-yayajäpota-circuítota-2024-2025po-béchïbo-superintendente-circuítopo-anémemaki-)
+* [2024-2025 Circuit Assembly Notebook With Circuit Overseer](#2024-2025-circuit-assembly-notebook-with-circuit-overseer-)
+* [2024-2025 Circuit Assembly Notebook With Branch Representative](#2024-2025-circuit-assembly-notebook-with-branch-representative-)
 
 ____
 ## 2024 Convention Notebook [⇧](#jwpub)
@@ -191,5 +192,23 @@ ____
 * **Tipo de publicación**: Programa
 * **Última actualización**: [*CA-cocdrn25_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_MYO.jwpub/CA-cocdrn25_MYO.jwpub)
 * **Publicado**: [03-08-2024]
+
+____
+## 2024-2025 Circuit Assembly Notebook With Circuit Overseer [⇧](#jwpub)
+<img src="screenshots/CA-cocdrn25.jpg" width="200px">
+
+* **Language**: English
+* **Type of publication**: Program
+* **Last release**: [*CA-cocdrn25_E.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_E.jwpub/CA-cocdrn25_E.jwpub)
+* **Released**: [05-08-2024]
+
+____
+## 2024-2025 Circuit Assembly Notebook With Branch Representative [⇧](#jwpub)
+<img src="screenshots/CA-brcdrn25.jpg" width="200px">
+
+* **Language**: English
+* **Type of publication**: Program
+* **Last release**: [*CA-brcdrn25_E.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_E.jwpub/CA-brcdrn25_E.jwpub)
+* **Released**: [05-08-2024]
 ____
 ____
