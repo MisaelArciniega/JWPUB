@@ -35,6 +35,7 @@ ____
 * [Please Follow Up](#please-follow-up-)
 * [Arem aman weyye](#arem-aman-weyye-)
 * [Cuaderno naw yayajäpota circuítota 2024-2025po béchïbo (Superintendente circuítopo anémemaki)](#cuaderno-naw-yayajäpota-circuítota-2024-2025po-béchïbo-superintendente-circuítopo-anémemaki-)
+* [Cuaderno naw yayajäpota circuítota 2024-2025po béchïbo (Representantetámaki Sucursalta bétana)](#cuaderno-naw-yayajäpota-circuítota-2024-2025po-béchïbo-representantetámaki-sucursalta-bétana-)
 * [2024-2025 Circuit Assembly Notebook With Circuit Overseer](#2024-2025-circuit-assembly-notebook-with-circuit-overseer-)
 * [2024-2025 Circuit Assembly Notebook With Branch Representative](#2024-2025-circuit-assembly-notebook-with-branch-representative-)
 
@@ -191,6 +192,15 @@ ____
 * **Idioma**: Yoremnokki
 * **Tipo de publicación**: Programa
 * **Última actualización**: [*CA-cocdrn25_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_MYO.jwpub/CA-cocdrn25_MYO.jwpub)
+* **Publicado**: [03-08-2024]
+
+____
+## Cuaderno naw yayajäpota circuítota 2024-2025po béchïbo (Representantetámaki Sucursalta bétana) [⇧](#jwpub)
+<img src="screenshots/CA-brcdrn25.jpg" width="200px">
+
+* **Idioma**: Yoremnokki
+* **Tipo de publicación**: Programa
+* **Última actualización**: [*CA-brcdrn25_MYO.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_MYO.jwpub/CA-brcdrn25_MYO.jwpub)
 * **Publicado**: [03-08-2024]
 
 ____
