@@ -107,7 +107,7 @@ ____
 <img src="screenshots/w19250301.jpg" width="200px">
 
 * **Idioma**: Español
-* **Tipo de publicación**: Libro
+* **Tipo de publicación**: La Atalaya
 * **Última actualización**: [*w_S_19250301.jwpub*](https://github.com/MisaelArciniega/JWPUB/releases/download/w_S_19250301.jwpub/w_S_19250301.jwpub)
 * **Publicado**: [25-04-2023]
 
