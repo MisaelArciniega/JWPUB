@@ -25,7 +25,7 @@ ____
 * [Cuaderno naw yayajäpota 2024po bechïbo](#cuaderno-naw-yayajäpota-2024po-bechïbo-)
 * [Historias biblicas ilustradas](#historias-biblicas-ilustradas-)
 * [Programa de lectura de la Biblia](#programa-de-lectura-de-la-biblia-)
-* [La Torre del Vigía 1925](#la-torre-del-vigía-1925-)
+* [La Torre del Vigía y Heraldo de la Presencia de Cristo, 1 de marzo de 1925](#la-torre-del-vigía-y-heraldo-de-la-presencia-de-cristo-1-de-marzo-de-1925-)
 * [Comentario sobre la carta de Santigo](#comentario-sobre-la-carta-de-santigo-)
 * [Caderno do Congresso de 2024](#caderno-do-congresso-de-2024-)
 * [Notebook sang 2024 nga Kombension](#notebook-sang-2024-nga-kombension-)
@@ -103,7 +103,7 @@ ____
 * **Publicado**: [12-07-2023]
 
 ____
-## La Torre del Vigía 1925 [⇧](#jwpub)
+## La Torre del Vigía y Heraldo de la Presencia de Cristo, 1 de marzo de 1925 [⇧](#jwpub)
 <img src="screenshots/w19250301.jpg" width="200px">
 
 * **Idioma**: Español
