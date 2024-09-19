@@ -58,7 +58,7 @@ ____
 ## ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana [⇧](#jwpub)
 <img src="screenshots/lffic.jpg" width="200px">
 
-* **Type of publication**: Book
+* **Type of publication**: Brochure
 * **Language**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffic.jwpub/lffic.jwpub)
 
 ____
