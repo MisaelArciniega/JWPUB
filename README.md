@@ -109,14 +109,14 @@ ____
 <img src="screenshots/CA-cocdrn25.jpg" width="200px">
 
 * **Type of publication**: Program
-* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_E.jwpub/CA-cocdrn25_E.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_MYO.jwpub/CA-cocdrn25_MYO.jwpub), [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_S.jwpub/CA-cocdrn25_S.jwpub)
+* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_E.jwpub/CA-cocdrn25_E.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_MYO.jwpub/CA-cocdrn25_MYO.jwpub), [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_S.jwpub/CA-cocdrn25_S.jwpub), [*Brazilian Portuguese*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_T.jwpub/CA-cocdrn25_T.jwpub)
 
 ____
 ## 2024-2025 Circuit Assembly Notebook With Branch Representative [⇧](#jwpub)
 <img src="screenshots/CA-brcdrn25.jpg" width="200px">
 
 * **Type of publication**: Program
-* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_E.jwpub/CA-brcdrn25_E.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_MYO.jwpub/CA-brcdrn25_MYO.jwpub), [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_S.jwpub/CA-brcdrn25_S.jwpub)
+* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_E.jwpub/CA-brcdrn25_E.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_MYO.jwpub/CA-brcdrn25_MYO.jwpub), [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_S.jwpub/CA-brcdrn25_S.jwpub), [*Brazilian Portuguese*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_T.jwpub/CA-brcdrn25_T.jwpub)
 
 ____
 ____
