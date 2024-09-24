@@ -30,7 +30,7 @@ ____
 * [Please Follow Up](#please-follow-up-)
 * [2024-2025 Circuit Assembly Notebook With Circuit Overseer](#2024-2025-circuit-assembly-notebook-with-circuit-overseer-)
 * [2024-2025 Circuit Assembly Notebook With Branch Representative](#2024-2025-circuit-assembly-notebook-with-branch-representative-)
-* [Good News for People of all Nation](#good-news for-people-of-all-nation-)
+* [Good News for People of All Nation](#good-news for-people-of-all-nation-)
 
 ____
 ____
@@ -120,7 +120,7 @@ ____
 * **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_E.jwpub/CA-brcdrn25_E.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_MYO.jwpub/CA-brcdrn25_MYO.jwpub), [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_S.jwpub/CA-brcdrn25_S.jwpub), [*Brazilian Portuguese*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_T.jwpub/CA-brcdrn25_T.jwpub)
 
 ____
-## Good News for People of all Nation [⇧](#jwpub)
+## Good News for People of All Nation [⇧](#jwpub)
 <img src="screenshots/np.jpg" width="200px">
 
 * **Type of publication**: Booklet
