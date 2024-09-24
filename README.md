@@ -30,6 +30,7 @@ ____
 * [Please Follow Up](#please-follow-up-)
 * [2024-2025 Circuit Assembly Notebook With Circuit Overseer](#2024-2025-circuit-assembly-notebook-with-circuit-overseer-)
 * [2024-2025 Circuit Assembly Notebook With Branch Representative](#2024-2025-circuit-assembly-notebook-with-branch-representative-)
+* [Good News for People of all Nation](#good-news for-people-of-all-nation-)
 
 ____
 ____
@@ -87,7 +88,7 @@ ____
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
  
 * **Type of publication**: Program
-* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_E.jwpub/CO-cdrn24_E.jwpub), [*Brazilian Portuguese*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_T.jwpub/CO-cdrn24_T.jwpub), [*Hiligaynon*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_HV.jwpub/CO-cdrn24_HV.jwpub), [*German*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_X.jwpub/CO-cdrn24_X.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_MYO.jwpub/CO-cdrn24_MYO.jwpub)
+* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_E.jwpub/CO-cdrn24_E.jwpub), [*Brazilian Portuguese*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_T.jwpub/CO-cdrn24_T.jwpub), [*Hiligaynon*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_HV.jwpub/CO-cdrn24_HV.jwpub), [*German*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_X.jwpub/CO-cdrn24_X.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_MYO.jwpub/CO-cdrn24_MYO.jwpub), [*Russian*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_U.jwpub/CO-cdrn24_U.jwpub)
 
 ____
 ## “Toda Escritura” [⇧](#jwpub)
@@ -117,6 +118,13 @@ ____
 
 * **Type of publication**: Program
 * **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_E.jwpub/CA-brcdrn25_E.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_MYO.jwpub/CA-brcdrn25_MYO.jwpub), [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_S.jwpub/CA-brcdrn25_S.jwpub), [*Brazilian Portuguese*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_T.jwpub/CA-brcdrn25_T.jwpub)
+
+____
+## Good News for People of all Nation [⇧](#jwpub)
+<img src="screenshots/np.jpg" width="200px">
+
+* **Type of publication**: Booklet
+* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/np_E.jwpub/np_E.jwpub)
 
 ____
 ____
