@@ -30,7 +30,7 @@ ____
 * [Please Follow Up](#please-follow-up-)
 * [2024-2025 Circuit Assembly Notebook With Circuit Overseer](#2024-2025-circuit-assembly-notebook-with-circuit-overseer-)
 * [2024-2025 Circuit Assembly Notebook With Branch Representative](#2024-2025-circuit-assembly-notebook-with-branch-representative-)
-* [Good News for People of All Nation](#good-news for-people-of-all-nation-)
+* [Good News for People of All Nation](#good-news-for-people-of-all-nation-)
 
 ____
 ____
