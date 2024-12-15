@@ -129,14 +129,14 @@ ____
 * **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/np_E.jwpub/np_E.jwpub)
 
 ____
-## Examinemos las Escrituras diariamente 2024 (con videos) [⇧](#jwpub)
+## Examinemos las Escrituras diariamente 2024 [⇧](#jwpub)
 <img src="screenshots/es24.jpg" width="200px">
 
 * **Type of publication**: Booklet
 * **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/es24_S.jwpub/es24_S.jwpub)
 
 ____
-## Examinemos las Escrituras diariamente 2025 (con videos) [⇧](#jwpub)
+## Examinemos las Escrituras diariamente 2025 [⇧](#jwpub)
 <img src="screenshots/es25.jpg" width="200px">
 
 * **Type of publication**: Booklet
