@@ -31,8 +31,8 @@ ____
 * [2024-2025 Circuit Assembly Notebook With Circuit Overseer](#2024-2025-circuit-assembly-notebook-with-circuit-overseer-)
 * [2024-2025 Circuit Assembly Notebook With Branch Representative](#2024-2025-circuit-assembly-notebook-with-branch-representative-)
 * [Good News for People of All Nation](#good-news-for-people-of-all-nation-)
-* [Examinemos las Escrituras diariamente 2024 (con videos)](#examinemos-las escrituras-diariamente-2024-con-videos-)
-* [Examinemos las Escrituras diariamente 2025 (con videos)](#examinemos-las escrituras-diariamente-2025-con-videos-)
+* [Examinemos las Escrituras diariamente 2024](#examinemos-las escrituras-diariamente-2024-)
+* [Examinemos las Escrituras diariamente 2025](#examinemos-las escrituras-diariamente-2025-)
 
 ____
 ____
