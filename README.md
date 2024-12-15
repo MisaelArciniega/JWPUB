@@ -33,6 +33,7 @@ ____
 * [Good News for People of All Nation](#good-news-for-people-of-all-nation-)
 * [Examinemos las Escrituras todos los días 2024 (con videos)](#examinemos-las-escrituras-todos-los-días-2024-con-videos-)
 * [Examinemos las Escrituras todos los días 2025 (con videos)](#examinemos-las-escrituras-todos-los-días-2025-con-videos-)
+* [Programa de lectura de la Biblia (2024)](#programa-de-lectura-de-la-biblia-2024-)
 
 ____
 ____
@@ -55,6 +56,7 @@ ____
 <img src="screenshots/brp.jpg" width="200px">
 
 * **Type of publication**: Program
+* **Note**: Adapted from the book “Enjoy Life Forever!—An Interactive Bible Course” and the “Bible-Reading Schedule” pdf available at jw.org
 * **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/brp_S.jwpub/brp_S.jwpub)
 
 ____
@@ -141,6 +143,13 @@ ____
 
 * **Type of publication**: Booklet
 * **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/es25_S.jwpub/es25_S.jwpub)
+
+____
+## Programa de lectura de la Biblia (2024) [⇧](#jwpub)
+<img src="screenshots/sbr.jpg" width="200px">
+
+* **Type of publication**: Brochure
+* **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/sbr_S.jwpub/sbr_S.jwpub)
 
 ____
 ____
