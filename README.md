@@ -31,6 +31,8 @@ ____
 * [2024-2025 Circuit Assembly Notebook With Circuit Overseer](#2024-2025-circuit-assembly-notebook-with-circuit-overseer-)
 * [2024-2025 Circuit Assembly Notebook With Branch Representative](#2024-2025-circuit-assembly-notebook-with-branch-representative-)
 * [Good News for People of All Nation](#good-news-for-people-of-all-nation-)
+* [Examinemos las Escrituras diariamente 2024 (con videos)](#examinemos-las escrituras-diariamente-2024-con-videos-)
+* [Examinemos las Escrituras diariamente 2025 (con videos)](#examinemos-las escrituras-diariamente-2025-con-videos-)
 
 ____
 ____
@@ -125,6 +127,20 @@ ____
 
 * **Type of publication**: Booklet
 * **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/np_E.jwpub/np_E.jwpub)
+
+____
+## Examinemos las Escrituras diariamente 2024 (con videos) [⇧](#jwpub)
+<img src="screenshots/es24.jpg" width="200px">
+
+* **Type of publication**: Booklet
+* **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/es24_S.jwpub/es24_S.jwpub)
+
+____
+## Examinemos las Escrituras diariamente 2025 (con videos) [⇧](#jwpub)
+<img src="screenshots/es25.jpg" width="200px">
+
+* **Type of publication**: Booklet
+* **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/es25_S.jwpub/es25_S.jwpub)
 
 ____
 ____
