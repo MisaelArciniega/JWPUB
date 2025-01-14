@@ -1,155 +1,171 @@
 # JWPUB
 
-Download custom jwpub files in different languages for JW Library
+Archivos <code>.jwpub</code> para JW Library
 
-Available languages:
-1. Spanish
-2. English
-3. Yoremnokki
-4. Hiligaynon
-5. Brazilian Portuguese
-6. German
-
-Installation
-1. Open the file using JW Library
-2. Go to Library tab
-3. Then go to the appropriate category
+**Instalación**
+1. Abre el archivo con JW Library
+2. Ve a <code>Biblioteca</code>
+3. Ve a la categoría de publicación señalada
 
 ____
 ____
 ## JWPUB
+* [Reina Valera 1960](#reina-valera-1960-)
+* [Diosta nooki yorem nokpo (Antiguo Testamento)](#diosta-nooki-yorem-nokpo-antiguo-testamento-)
+* [Diosta nooki yorem nokpo (Nuevo Testamento)](#diosta-nooki-yorem-nokpo-nuevo-testamento-)
 * [La Torre del Vigía 1925](#la-torre-del-vigía-1925-)
 * [Historias bíblicas ilustradas](#historias-bíblicas-ilustradas-)
 * [Programa de lectura de la Biblia](#programa-de-lectura-de-la-biblia-)
 * [¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana](#alleake-jiba-bechïbo-jiapsa-jume-bat-lecciónim-bíbliata-bétana-)
 * [Cuadérno jü Conmemoraciónta 2024ta bechïbo](#cuadérno-jü-conmemoraciónta-2024ta-bechïbo-)
 * [¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini](#alleake-jiba-bechïbo-jiapsa-ju-biblia-enchi-a-bittuana-jáchini-)
-* [Comentario sobre la carta de Santigo](#comentario-sobre-la-carta-de-santigo-)
-* [2024 Convention Notebook](#2024-convention-notebook-)
+* [Comentario sobre la carta de Santiago](#comentario-sobre-la-carta-de-santiago-)
+* [Cuaderno de apuntes para la asamblea regional 2024](#cuaderno-de-apuntes-para-la-asamblea-regional-2024-)
 * [“Toda Escritura”](#toda-escritura-)
-* [Please Follow Up](#please-follow-up-)
-* [2024-2025 Circuit Assembly Notebook With Circuit Overseer](#2024-2025-circuit-assembly-notebook-with-circuit-overseer-)
-* [2024-2025 Circuit Assembly Notebook With Branch Representative](#2024-2025-circuit-assembly-notebook-with-branch-representative-)
-* [Good News for People of All Nation](#good-news-for-people-of-all-nation-)
+* [Sírvase visitar](#sírvase-visitar-)
+* [Cuaderno de apuntes para la asamblea de circuito 2024-2025 (con el superintendente de circuito)](#cuaderno-de-apuntes-para-la-asamblea-de-circuito-2024-2025-con-el-superintendente-de-circuito-)
+* [Cuaderno de apuntes para la asamblea de circuito 2024-2025 (con el representante de la Sucursal)](#cuaderno-de-apuntes-para-la-asamblea-de-circuito-2024-2025-con-el-representante-de-la-sucursal-)
+* [Buenas Nuevas para gente de todas las naciones](#buenas-nuevas-para-gente-de-todas-las-naciones-)
 * [Examinemos las Escrituras todos los días 2024 (con videos)](#examinemos-las-escrituras-todos-los-días-2024-con-videos-)
 * [Examinemos las Escrituras todos los días 2025 (con videos)](#examinemos-las-escrituras-todos-los-días-2025-con-videos-)
-* [Programa de lectura de la Biblia (2024)](#programa-de-lectura-de-la-biblia-2024-)
+* [Programas de lectura de la Biblia](#programas-de-lectura-de-la-biblia-)
 
 ____
 ____
 
+## Reina Valera 1960 [⇧](#jwpub)
+<img src="screenshots/rv1960.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/rv1960_S.jwpub/rv1960_S.jwpub)
+
+____
+## Diosta nooki yorem nokpo (Antiguo Testamento) [⇧](#jwpub)
+<img src="screenshots/dnyn.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/dnyn-at_MYO.jwpub/dnyn-at_MYO.jwpub)
+
+____
+## Diosta nooki yorem nokpo (Nuevo Testamento) [⇧](#jwpub)
+<img src="screenshots/dnyn.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/dnyn-nt_MYO.jwpub/dnyn-nt_MYO.jwpub)
+
+____
 ## La Torre del Vigía 1925 [⇧](#jwpub)
 <img src="screenshots/w19250301.jpg" width="200px">
 
-* **Type of publication**: Book
-* **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/w_S_19250301.jwpub/w_S_19250301.jwpub)
+* **Tipo de publicación**: Libro
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/w_S_19250301.jwpub/w_S_19250301.jwpub)
 
 ____
 ## Historias bíblicas ilustradas [⇧](#jwpub)
 <img src="screenshots/ibs.jpg" width="200px">
 
-* **Type of publication**: Article Series
-* **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/ibs_S.jwpub/ibs_S.jwpub)
+* **Tipo de publicación**: Catálogo de artículos
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/ibs_S.jwpub/ibs_S.jwpub)
 
 ____
 ## Programa de lectura de la Biblia [⇧](#jwpub)
 <img src="screenshots/brp.jpg" width="200px">
 
-* **Type of publication**: Program
-* **Note**: Adapted from the book “Enjoy Life Forever!—An Interactive Bible Course” and the “Bible-Reading Schedule” pdf available at jw.org
-* **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/brp_S.jwpub/brp_S.jwpub)
+* **Tipo de publicación**: Programas
+* **Nota**: Adaptado del libro “Disfrute” y del programa en <code>pdf</code> disponible en jw.org
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/brp_S.jwpub/brp_S.jwpub)
 
 ____
 ## ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana [⇧](#jwpub)
 <img src="screenshots/lffic.jpg" width="200px">
 
-* **Type of publication**: Brochure
-* **Language**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffic.jwpub/lffic.jwpub)
+* **Tipo de publicación**: Folletos
+* **Idioma**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffic.jwpub/lffic.jwpub)
 
 ____
 ## Cuadérno jü Conmemoraciónta 2024ta bechïbo [⇧](#jwpub)
 <img src="screenshots/cdrn-mi24.jpg" width="200px">
 
-* **Type of publication**: Book
-* **Language**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/cdrn-mi24_MYO.jwpub/cdrn-mi24_MYO.jwpub)
+* **Tipo de publicación**: Libro
+* **Idioma**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/cdrn-mi24_MYO.jwpub/cdrn-mi24_MYO.jwpub)
 
 ____
 ## ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini [⇧](#jwpub)
 <img src="screenshots/lffc.jpg" width="200px">
 
-* **Type of publication**: Book
-* **Language**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffc_MYO.jwpub/lffc_MYO.jwpub)
+* **Tipo de publicación**: Libro
+* **Idioma**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffc_MYO.jwpub/lffc_MYO.jwpub)
 
 ____
 ## Comentario sobre la carta de Santiago [⇧](#jwpub)
 <img src="screenshots/cj.jpg" width="200px">
 
-* **Type of publication**: Book
-* **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/cj_S.jwpub/cj_S.jwpub)
+* **Tipo de publicación**: Libro
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/cj_S.jwpub/cj_S.jwpub)
 
 ____
-## 2024 Convention Notebook [⇧](#jwpub)
+## Cuaderno de apuntes para la asamblea regional 2024 [⇧](#jwpub)
 <img src="screenshots/CO-cdrn24.jpg" width="200px">
  
-* **Type of publication**: Program
-* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_E.jwpub/CO-cdrn24_E.jwpub), [*Brazilian Portuguese*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_T.jwpub/CO-cdrn24_T.jwpub), [*Hiligaynon*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_HV.jwpub/CO-cdrn24_HV.jwpub), [*German*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_X.jwpub/CO-cdrn24_X.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_MYO.jwpub/CO-cdrn24_MYO.jwpub), [*Russian*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_U.jwpub/CO-cdrn24_U.jwpub)
+* **Tipo de publicación**: Programas
+* **Idioma**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CO-cdrn24_MYO.jwpub/CO-cdrn24_MYO.jwpub)
 
 ____
 ## “Toda Escritura” [⇧](#jwpub)
 <img src="screenshots/si.jpg" width="200px">
 <img src="screenshots/si-lsr.jpg" width="200px">
 
-* **Type of publication**: Book
-* **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/si_S.jwpub/si_S.jwpub)
+* **Tipo de publicación**: Libro
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/si_S.jwpub/si_S.jwpub)
 
 ____
-## Please Follow Up [⇧](#jwpub)
+## Sírvase visitar [⇧](#jwpub)
 <img src="screenshots/S-43.jpg" width="200px">
 
-* **Type of publication**: Form
-* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_E.jwpub/S-43_E.jwpub), [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_S.jwpub/S-43_S.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_MYO.jwpub/S-43_MYO.jwpub)
+* **Tipo de publicación**: Formulario
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_S.jwpub/S-43_S.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/S-43_MYO.jwpub/S-43_MYO.jwpub)
 
 ____
-## 2024-2025 Circuit Assembly Notebook With Circuit Overseer [⇧](#jwpub)
+## Cuaderno de apuntes para la asamblea de circuito 2024-2025 (con el superintendente de circuito) [⇧](#jwpub)
 <img src="screenshots/CA-cocdrn25.jpg" width="200px">
 
-* **Type of publication**: Program
-* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_E.jwpub/CA-cocdrn25_E.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_MYO.jwpub/CA-cocdrn25_MYO.jwpub), [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_S.jwpub/CA-cocdrn25_S.jwpub), [*Brazilian Portuguese*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_T.jwpub/CA-cocdrn25_T.jwpub)
+* **Tipo de publicación**: Programas
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_S.jwpub/CA-cocdrn25_S.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-cocdrn25_MYO.jwpub/CA-cocdrn25_MYO.jwpub)
 
 ____
-## 2024-2025 Circuit Assembly Notebook With Branch Representative [⇧](#jwpub)
+## Cuaderno de apuntes para la asamblea de circuito 2024-2025 (con el representante de la Sucursal) [⇧](#jwpub)
 <img src="screenshots/CA-brcdrn25.jpg" width="200px">
 
-* **Type of publication**: Program
-* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_E.jwpub/CA-brcdrn25_E.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_MYO.jwpub/CA-brcdrn25_MYO.jwpub), [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_S.jwpub/CA-brcdrn25_S.jwpub), [*Brazilian Portuguese*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_T.jwpub/CA-brcdrn25_T.jwpub)
+* **Tipo de publicación**: Programas
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_S.jwpub/CA-brcdrn25_S.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_MYO.jwpub/CA-brcdrn25_MYO.jwpub)
 
 ____
-## Good News for People of All Nation [⇧](#jwpub)
+## Buenas Nuevas para gente de todas las naciones [⇧](#jwpub)
 <img src="screenshots/np.jpg" width="200px">
 
-* **Type of publication**: Booklet
-* **Language**: [*English*](https://github.com/MisaelArciniega/JWPUB/releases/download/np_E.jwpub/np_E.jwpub)
+* **Tipo de publicación**: Folletos
+* **Idioma**: [*Español*]() [**PROXIMAMENTE**]
 
 ____
 ## Examinemos las Escrituras todos los días 2024 (con videos) [⇧](#jwpub)
 <img src="screenshots/es24.jpg" width="200px">
 
-* **Type of publication**: Booklet
-* **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/es24_S.jwpub/es24_S.jwpub)
+* **Tipo de publicación**: Folletos
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/es24_S.jwpub/es24_S.jwpub)
 
 ____
 ## Examinemos las Escrituras todos los días 2025 (con videos) [⇧](#jwpub)
 <img src="screenshots/es25.jpg" width="200px">
 
-* **Type of publication**: Booklet
-* **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/es25_S.jwpub/es25_S.jwpub)
+* **Tipo de publicación**: Folletos
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/es25_S.jwpub/es25_S.jwpub)
 
 ____
-## Programa de lectura de la Biblia (2024) [⇧](#jwpub)
+## Programas de lectura de la Biblia [⇧](#jwpub)
 <img src="screenshots/sbr.jpg" width="200px">
 
-* **Type of publication**: Brochure
-* **Language**: [*Spanish*](https://github.com/MisaelArciniega/JWPUB/releases/download/sbr_S.jwpub/sbr_S.jwpub)
+* **Tipo de publicación**: Folletos
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/sbr_S.jwpub/sbr_S.jwpub)
 
 ____
 ____
