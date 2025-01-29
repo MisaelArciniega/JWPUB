@@ -9,6 +9,13 @@ Archivos <code>.jwpub</code> para JW Library
 
 ____
 ____
+## Nuevo Testamento Interlineal
+<img src="screenshots/biblia.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/int_S/int_S.jwpub)
+
+____
 ## Reina Valera 1960
 <img src="screenshots/rv1960.jpg" width="200px">
 
