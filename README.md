@@ -9,11 +9,11 @@ Archivos <code>.jwpub</code> para JW Library
 
 ____
 ____
-## Nuevo Testamento Interlineal
+## Biblia Interlineal
 <img src="screenshots/biblia.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/int_S/int_S.jwpub)
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/int_S.jwpub/int_S.jwpub)
 
 ____
 ## Reina Valera 1960
@@ -121,13 +121,6 @@ ____
 
 * **Tipo de publicación**: Programas
 * **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_S.jwpub/CA-brcdrn25_S.jwpub), [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/CA-brcdrn25_MYO.jwpub/CA-brcdrn25_MYO.jwpub)
-
-____
-## Buenas Nuevas para gente de todas las naciones
-<img src="screenshots/np.jpg" width="200px">
-
-* **Tipo de publicación**: Folletos
-* **Idioma**: [*Español*]() [**PROXIMAMENTE**]
 
 ____
 ## Examinemos las Escrituras todos los días 2024 (con videos)
