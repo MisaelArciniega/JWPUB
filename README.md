@@ -9,6 +9,13 @@ Archivos <code>.jwpub</code> para JW Library
 
 ____
 ____
+## Versión Biblia Libre
+<img src="screenshots/fbv.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/fbv_S.jwpub/fbv_S.jwpub)
+
+____
 ## Biblia Interlineal
 <img src="screenshots/biblia.jpg" width="200px">
 
