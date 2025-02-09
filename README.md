@@ -17,7 +17,7 @@ ____
 
 ____
 ## Reina Valera 1960
-<img src="screenshots/rv1960.jpg" width="200px">
+<img src="screenshots/rv60.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/rv1960_S.jwpub/rv1960_S.jwpub)
