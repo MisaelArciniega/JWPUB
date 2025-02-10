@@ -13,14 +13,17 @@ ____
 <img src="screenshots/vm.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v1*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
 
 ____
 ## Versión Biblia Libre
 <img src="screenshots/fbv.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español- v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/fbv_S.jwpub/fbv_S.jwpub)
+* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/fbv_S.jwpub/fbv_S.jwpub)
+* **Cambios en la v2:**
+  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107
+  2. Estilo Bold en titulillos en Salmo 119
 
 ____
 ## Biblia Interlineal
@@ -28,6 +31,9 @@ ____
 
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/int_S.jwpub/int_S.jwpub)
+* **Cambios en la v2:**
+  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107
+  2. Estilo Bold en titulillos en Salmo 119
 
 ____
 ## Reina Valera 1960
@@ -35,6 +41,9 @@ ____
 
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/rv1960_S.jwpub/rv1960_S.jwpub)
+* **Cambios en la v2:**
+  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107
+  2. Estilo Bold en titulillos en Salmo 119
 
 ____
 ## Diosta nooki yorem nokpo (Antiguo Testamento)
