@@ -9,6 +9,13 @@ Archivos <code>.jwpub</code> para JW Library
 
 ____
 ____
+## Versión Moderna (1929)
+<img src="screenshots/vm.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
+
+____
 ## Versión Biblia Libre
 <img src="screenshots/fbv.jpg" width="200px">
 
