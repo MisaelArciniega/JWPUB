@@ -22,7 +22,7 @@ ____
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/fbv_S.jwpub/fbv_S.jwpub)
 * **Cambios en la v2:**
-  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107
+  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107 de los Salmos
   2. Estilo Bold en titulillos en Salmo 119
 
 ____
@@ -32,7 +32,7 @@ ____
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/int_S.jwpub/int_S.jwpub)
 * **Cambios en la v2:**
-  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107
+  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107 de los Salmos
   2. Estilo Bold en titulillos en Salmo 119
 
 ____
@@ -42,7 +42,7 @@ ____
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/rv1960_S.jwpub/rv1960_S.jwpub)
 * **Cambios en la v2:**
-  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107
+  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107 de los Salmos
   2. Estilo Bold en titulillos en Salmo 119
 
 ____
