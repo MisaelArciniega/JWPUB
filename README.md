@@ -23,7 +23,8 @@ ____
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/fbv_S.jwpub/fbv_S.jwpub)
 * **Cambios en la v2:**
   1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107 de los Salmos
-  2. Estilo Bold en titulillos en Salmo 119
+  2. Agregación de estilo Bold en titulillos del Salmo 119
+  3. Correcciones ortográficas en 1 Jn 5:7, 10: [7. “Asó” por “Así”] [10. “Dios mentirosos” por “Dios mentiroso”]. Vea el original <a href="https://ebible.org/spavbl/1JN05.htm">aqui</a>.
 
 ____
 ## Biblia Interlineal
@@ -33,7 +34,7 @@ ____
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/int_S.jwpub/int_S.jwpub)
 * **Cambios en la v2:**
   1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107 de los Salmos
-  2. Estilo Bold en titulillos en Salmo 119
+  2. Agregación de estilo Bold en titulillos del Salmo 119
 
 ____
 ## Reina Valera 1960
@@ -43,7 +44,7 @@ ____
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/rv1960_S.jwpub/rv1960_S.jwpub)
 * **Cambios en la v2:**
   1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107 de los Salmos
-  2. Estilo Bold en titulillos en Salmo 119
+  2. Agregación de estilo Bold en titulillos del Salmo 119
 
 ____
 ## Diosta nooki yorem nokpo (Antiguo Testamento)
