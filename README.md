@@ -9,6 +9,13 @@ Archivos <code>.jwpub</code> para JW Library
 
 ____
 ____
+## La Biblia de las Américas (1997)
+<img src="screenshots/lbla.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/lbla_S.jwpub/lbla_S.jwpub)
+
+____
 ## Versión Moderna (1929)
 <img src="screenshots/vm.jpg" width="200px">
 
