@@ -20,7 +20,11 @@ ____
 <img src="screenshots/vm.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
+* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
+* **Cambios en la v2:**
+  1. Correción en titulillos repetidos del Salmo 119
+  2. Eliminación de acentuación en monosílabos: pronombre enclítico “tí”, “á”, “fué”
+  3. Corrección en espaciado en palabras cursivas
 
 ____
 ## Versión Biblia Libre
