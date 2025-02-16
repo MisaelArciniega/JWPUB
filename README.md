@@ -69,8 +69,9 @@ ____
 <img src="screenshots/dnyn.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/dnyn-nt_MYO.jwpub/dnyn-nt_MYO.jwpub)
-
+* **Idioma**: [*Yoremnokki - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/dnyn-nt_MYO.jwpub/dnyn-nt_MYO.jwpub)
+* **Cambios en la v2:**
+  1. Correción en versículos mutilados.
 ____
 ## La Torre del Vigía 1925
 <img src="screenshots/w19250301.jpg" width="200px">
