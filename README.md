@@ -80,13 +80,6 @@ ____
 * **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/w_S_19250301.jwpub/w_S_19250301.jwpub)
 
 ____
-## Historias bíblicas ilustradas
-<img src="screenshots/ibs.jpg" width="200px">
-
-* **Tipo de publicación**: Catálogo de artículos
-* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/ibs_S.jwpub/ibs_S.jwpub)
-
-____
 ## Programa de lectura de la Biblia
 <img src="screenshots/brp.jpg" width="200px">
 
@@ -95,25 +88,11 @@ ____
 * **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/brp_S.jwpub/brp_S.jwpub)
 
 ____
-## ¡Al’leake jiba bechïbo jiapsa! Jume bat lecciónim Bíbliata bétana
-<img src="screenshots/lffic.jpg" width="200px">
-
-* **Tipo de publicación**: Folletos
-* **Idioma**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffic.jwpub/lffic.jwpub)
-
-____
 ## Cuadérno jü Conmemoraciónta 2024ta bechïbo
 <img src="screenshots/cdrn-mi24.jpg" width="200px">
 
 * **Tipo de publicación**: Libro
 * **Idioma**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/cdrn-mi24_MYO.jwpub/cdrn-mi24_MYO.jwpub)
-
-____
-## ¡Al’leake jiba bechïbo jiapsa! Ju Biblia enchi a bit’tuana jáchini
-<img src="screenshots/lffc.jpg" width="200px">
-
-* **Tipo de publicación**: Libro
-* **Idioma**: [*Yoremnokki*](https://github.com/MisaelArciniega/JWPUB/releases/download/lffc_MYO.jwpub/lffc_MYO.jwpub)
 
 ____
 ## Comentario sobre la carta de Santiago
