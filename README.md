@@ -73,11 +73,11 @@ ____
 * **Cambios en la v2:**
   1. Correción en versículos incompletos.
 ____
-## La Torre del Vigía 1925
-<img src="screenshots/w19250301.jpg" width="200px">
+## “¿Ha escuchado alguien algo como esto?” (Deut. 4:32)
+<img src="screenshots/cda.jpg" width="200px">
 
-* **Tipo de publicación**: Libro
-* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/w_S_19250301.jwpub/w_S_19250301.jwpub)
+* **Tipo de publicación**: Catálogo de artículos
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/cda_S.jwpub/cda_S.jwpub)
 
 ____
 ## Programa de lectura de la Biblia
