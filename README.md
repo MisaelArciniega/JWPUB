@@ -74,7 +74,7 @@ ____
   1. Correción en versículos incompletos.
 ____
 ## “¿Ha escuchado alguien algo como esto?” (Deut. 4:32)
-<img src="screenshots/cda.jpg" width="200px">
+<img src="screenshots/tile-400.jpg" width="200px">
 
 * **Tipo de publicación**: Catálogo de artículos
 * **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/cda_S.jwpub/cda_S.jwpub)
