@@ -1,6 +1,6 @@
 # JWPUB
 
-Archivos <code>.jwpub</code> para JW Library
+Archivos <code>.jwpub</code> diseñados para el estudio personal en JW Library
 
 **Instalación**
 1. Abre el archivo con JW Library
@@ -9,11 +9,20 @@ Archivos <code>.jwpub</code> para JW Library
 
 ____
 ____
+## Dios habla hoy (1994)
+<img src="screenshots/dhh.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/dhh_S.jwpub/dhh_S.jwpub)
+
+____
 ## La Biblia de las Américas (1997)
 <img src="screenshots/lbla.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/lbla_S.jwpub/lbla_S.jwpub)
+* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/lbla_S.jwpub/lbla_S.jwpub)
+* * **Cambios en la v2:**
+  1. Eliminación de asteriscos en el texto, que posiblemente eran notas marginales
 
 ____
 ## Versión Moderna (1929)
@@ -35,7 +44,7 @@ ____
 * **Cambios en la v2:**
   1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107 de los Salmos
   2. Agregación de estilo Bold en titulillos del Salmo 119
-  3. Correcciones ortográficas en 1 Jn 5:7, 10: [7. “Asó” por “Así”] [10. “Dios mentirosos” por “Dios mentiroso”]. Vea el original <a href="https://ebible.org/spavbl/1JN05.htm">aqui</a>.
+  3. Correcciones ortográficas en 1 Jn 5:7, 10: [7. “Asó” por “Así”] [10. “Dios mentirosos” por “Dios mentiroso”]. Vea el original <a href="https://ebible.org/spavbl/1JN05.htm">aquí</a>.
 
 ____
 ## Biblia Interlineal
