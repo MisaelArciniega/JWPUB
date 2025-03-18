@@ -13,7 +13,10 @@ ____
 <img src="screenshots/dhh.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/dhh_S.jwpub/dhh_S.jwpub)
+* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/dhh_S.jwpub/dhh_S.jwpub)
+* **Actualización:** 18-03-2025
+* **Cambios en la v2:**
+  1. Correcciones en el Salmo 119
 
 ____
 ## La Biblia de las Américas (1997)
@@ -21,19 +24,18 @@ ____
 
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/lbla_S.jwpub/lbla_S.jwpub)
-* * **Cambios en la v2:**
-  1. Eliminación de asteriscos en el texto, que posiblemente eran notas marginales
+* **Cambios en la v2:**
+  1. Eliminación de asteriscos en el texto (posibles notas marginales)
 
 ____
 ## Versión Moderna (1929)
 <img src="screenshots/vm.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
-* **Cambios en la v2:**
-  1. Correción en titulillos repetidos del Salmo 119
-  2. Eliminación de acentuación en monosílabos: pronombre enclítico “tí”, “á”, “fué”
-  3. Corrección en espaciado en palabras cursivas
+* **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
+* **Actualización:** 18-03-2025
+* **Cambios en la v3:**
+  1. Correcciones en el Salmo 119
 
 ____
 ## Versión Biblia Libre
