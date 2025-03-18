@@ -9,6 +9,13 @@ Archivos <code>.jwpub</code> diseñados para el estudio personal en JW Library
 
 ____
 ____
+## Biblia Hispanoamericana (Traducción Interconfesional, 2011)
+<img src="screenshots/bhti.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/bhti_S.jwpub/bhti_S.jwpub)
+
+____
 ## Dios habla hoy (1994)
 <img src="screenshots/dhh.jpg" width="200px">
 
@@ -24,6 +31,7 @@ ____
 
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/lbla_S.jwpub/lbla_S.jwpub)
+* **Actualización:** 17-03-2025
 * **Cambios en la v2:**
   1. Eliminación de asteriscos en el texto (posibles notas marginales)
 
