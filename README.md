@@ -13,48 +13,54 @@ ____
 <img src="screenshots/bhti.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/bhti_S.jwpub/bhti_S.jwpub)
-
+* **Idioma**: [*Español -v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/bhti_S.jwpub/bhti_S.jwpub)
+* **Actualización:** 24-03-2025
+* **Cambios en la v2:**
+  1. Reestructuración de la base de datos
+  2. Agregación de sumarios
 ____
 ## Dios habla hoy (1994)
 <img src="screenshots/dhh.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/dhh_S.jwpub/dhh_S.jwpub)
-* **Actualización:** 18-03-2025
-* **Cambios en la v2:**
-  1. Correcciones en el Salmo 119
+* **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/dhh_S.jwpub/dhh_S.jwpub)
+* **Actualización:** 24-03-2025
+* **Cambios en la v3:**
+  1. Reestructuración de la base de datos
+  2. Agregación de sumarios
 
 ____
 ## La Biblia de las Américas (1997)
 <img src="screenshots/lbla.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/lbla_S.jwpub/lbla_S.jwpub)
-* **Actualización:** 17-03-2025
-* **Cambios en la v2:**
-  1. Eliminación de asteriscos en el texto (posibles notas marginales)
+* **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/lbla_S.jwpub/lbla_S.jwpub)
+* **Actualización:** 24-03-2025
+* **Cambios en la v3:**
+  1. Reestructuración de la base de datos
+  2. Agregación de sumarios
 
 ____
 ## Versión Moderna (1929)
 <img src="screenshots/vm.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
-* **Actualización:** 18-03-2025
-* **Cambios en la v3:**
-  1. Correcciones en el Salmo 119
+* **Idioma**: [*Español - v4*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
+* **Actualización:** 24-03-2025
+* **Cambios en la v4:**
+  1. Reestructuración de la base de datos
+  2. Agregación de sumarios
 
 ____
 ## Versión Biblia Libre
 <img src="screenshots/fbv.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/fbv_S.jwpub/fbv_S.jwpub)
-* **Cambios en la v2:**
-  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107 de los Salmos
-  2. Agregación de estilo Bold en titulillos del Salmo 119
-  3. Correcciones ortográficas en 1 Jn 5:7, 10: [7. “Asó” por “Así”] [10. “Dios mentirosos” por “Dios mentiroso”]. Vea el original <a href="https://ebible.org/spavbl/1JN05.htm">aquí</a>.
+* **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/fbv_S.jwpub/fbv_S.jwpub)
+* **Actualización:** 24-03-2025
+* **Cambios en la v3:**
+  1. Reestructuración de la base de datos
+  2. Agregación de sumarios
 
 ____
 ## Biblia Interlineal
@@ -71,10 +77,11 @@ ____
 <img src="screenshots/rv60.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/rv1960_S.jwpub/rv1960_S.jwpub)
-* **Cambios en la v2:**
-  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107 de los Salmos
-  2. Agregación de estilo Bold en titulillos del Salmo 119
+* **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/rv1960_S.jwpub/rv1960_S.jwpub)
+* **Actualización:** 24-03-2025
+* **Cambios en la v3:**
+  1. Reestructuración de la base de datos
+  2. Agregación de sumarios
 
 ____
 ## Diosta nooki yorem nokpo (Antiguo Testamento)
