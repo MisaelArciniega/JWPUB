@@ -9,6 +9,13 @@ Archivos <code>.jwpub</code> diseñados para el estudio personal en JW Library
 
 ____
 ____
+## Nuevo Testamento (Pablo Besson)
+<img src="screenshots/ntpb.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/ntpb_S.jwpub/ntpb_S.jwpub)
+
+____
 ## Evangelio Hebreo de Mateo (DuTillet)
 <img src="screenshots/j1.jpg" width="200px">
 
