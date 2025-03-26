@@ -9,58 +9,49 @@ Archivos <code>.jwpub</code> diseñados para el estudio personal en JW Library
 
 ____
 ____
+## Evangelio Hebreo de Mateo (DuTillet)
+<img src="screenshots/j1.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/j1_S.jwpub/j1_S.jwpub)
+
+____
 ## Biblia Hispanoamericana (Traducción Interconfesional, 2011)
 <img src="screenshots/bhti.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español -v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/bhti_S.jwpub/bhti_S.jwpub)
-* **Actualización:** 24-03-2025
-* **Cambios en la v2:**
-  1. Reestructuración de la base de datos
-  2. Agregación de sumarios
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/bhti_S.jwpub/bhti_S.jwpub)
+
 ____
 ## Dios habla hoy (1994)
 <img src="screenshots/dhh.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/dhh_S.jwpub/dhh_S.jwpub)
-* **Actualización:** 24-03-2025
-* **Cambios en la v3:**
-  1. Reestructuración de la base de datos
-  2. Agregación de sumarios
+* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/dhh_S.jwpub/dhh_S.jwpub)
 
 ____
 ## La Biblia de las Américas (1997)
 <img src="screenshots/lbla.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/lbla_S.jwpub/lbla_S.jwpub)
+* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/lbla_S.jwpub/lbla_S.jwpub)
 * **Actualización:** 24-03-2025
-* **Cambios en la v3:**
-  1. Reestructuración de la base de datos
-  2. Agregación de sumarios
 
 ____
 ## Versión Moderna (1929)
 <img src="screenshots/vm.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v4*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
+* **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
 * **Actualización:** 24-03-2025
-* **Cambios en la v4:**
-  1. Reestructuración de la base de datos
-  2. Agregación de sumarios
 
 ____
 ## Versión Biblia Libre
 <img src="screenshots/fbv.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/fbv_S.jwpub/fbv_S.jwpub)
+* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/fbv_S.jwpub/fbv_S.jwpub)
 * **Actualización:** 24-03-2025
-* **Cambios en la v3:**
-  1. Reestructuración de la base de datos
-  2. Agregación de sumarios
 
 ____
 ## Biblia Interlineal
@@ -68,20 +59,13 @@ ____
 
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/int_S.jwpub/int_S.jwpub)
-* **Cambios en la v2:**
-  1. Correción en titulillos omitidos en los capítulos 1, 42, 73, 90 y 107 de los Salmos
-  2. Agregación de estilo Bold en titulillos del Salmo 119
 
 ____
 ## Reina Valera 1960
 <img src="screenshots/rv60.jpg" width="200px">
 
 * **Tipo de publicación**: Biblia
-* **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/rv1960_S.jwpub/rv1960_S.jwpub)
-* **Actualización:** 24-03-2025
-* **Cambios en la v3:**
-  1. Reestructuración de la base de datos
-  2. Agregación de sumarios
+* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/rv1960_S.jwpub/rv1960_S.jwpub)
 
 ____
 ## Diosta nooki yorem nokpo (Antiguo Testamento)
