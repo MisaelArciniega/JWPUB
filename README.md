@@ -42,7 +42,6 @@ ____
 
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/lbla_S.jwpub/lbla_S.jwpub)
-* **Actualización:** 24-03-2025
 
 ____
 ## Versión Moderna (1929)
@@ -50,7 +49,6 @@ ____
 
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español - v3*](https://github.com/MisaelArciniega/JWPUB/releases/download/vm_S.jwpub/vm_S.jwpub)
-* **Actualización:** 24-03-2025
 
 ____
 ## Versión Biblia Libre
@@ -58,7 +56,6 @@ ____
 
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/fbv_S.jwpub/fbv_S.jwpub)
-* **Actualización:** 24-03-2025
 
 ____
 ## Biblia Interlineal
@@ -87,8 +84,7 @@ ____
 
 * **Tipo de publicación**: Biblia
 * **Idioma**: [*Yoremnokki - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/dnyn-nt_MYO.jwpub/dnyn-nt_MYO.jwpub)
-* **Cambios en la v2:**
-  1. Correción en versículos incompletos.
+
 ____
 ## “¿Ha escuchado alguien algo como esto?” (Deut. 4:32)
 <img src="screenshots/tile-400.jpg" width="200px">
