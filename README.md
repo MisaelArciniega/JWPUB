@@ -9,6 +9,14 @@ Archivos <code>.jwpub</code> diseñados para el estudio personal en JW Library
 
 ____
 ____
+## Traducción del Nuevo Mundo (1967)
+<img src="screenshots/biblia.jpg" width="200px">
+
+* **Tipo de publicación**: Biblia
+* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/bi12-61_S.jwpub/bi12-61_S.jwpub)
+* **Nota**: En producción. (Vea el comentario en Issues)
+
+____
 ## Nuevo Testamento (Pablo Besson)
 <img src="screenshots/ntpb.jpg" width="200px">
 
