@@ -170,7 +170,7 @@ ____
 <img src="screenshots/es25.jpg" width="200px">
 
 * **Tipo de publicación**: Folletos
-* **Idioma**: [*Español*](https://github.com/MisaelArciniega/JWPUB/releases/download/es25_S.jwpub/es25_S.jwpub)
+* **Idioma**: [*Español - v2*](https://github.com/MisaelArciniega/JWPUB/releases/download/es25_S.jwpub/es25_S.jwpub)
 
 ____
 ## Programas de lectura de la Biblia
