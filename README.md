@@ -167,6 +167,7 @@ ____
 
 ____
 ## Examinemos las Escrituras todos los días 2025 (con videos)
+<img src="screenshots/update.gif" alt="preview on Android" width="200">
 <img src="screenshots/es25.jpg" width="200px">
 
 * **Tipo de publicación**: Folletos
